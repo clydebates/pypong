@@ -2,6 +2,7 @@
 Simple Pong in Pygame
 
 This is a first attempt at making an extremely simple game using the Pygame module.
+<br>
 See more about Pygame here:
 https://www.pygame.org/wiki/about
 
